@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -name: print greeting
-       run: 
+      run: 
          echo "Welcome to git GitHub Actions"
       
